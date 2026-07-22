@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Enable Network Shared Drive
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
+"EnableLinkedConnections"=dword:00000001
